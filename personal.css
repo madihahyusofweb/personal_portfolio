@@ -1,0 +1,53 @@
+body{
+	background-color: aqua;
+}
+
+p{
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 30px;
+	color: blue
+}
+
+h1{
+	font-family: 'Langar', cursive;
+	font-size: 40px;
+	color: #FF1493
+}
+
+h1{
+	border: 5px dotted #8B008B;
+}
+
+h2{
+	font-family: 'Langar', cursive;
+	font-size: 40px;
+	color: #FA8072
+}
+h2{
+	border:5px solid #00FA9A;
+	
+	
+}
+
+h3{
+	font-family: 'Langar', cursive;
+	font-size: 40px;
+	color: #FA8072
+}
+
+h3{
+	border:5px solid #00FA9A;
+	
+	
+}
+h4{
+	font-family: 'Langar', cursive;
+	font-size: 40px;
+	color: #FA8072
+}
+
+h4{
+	border:5px solid #00FA9A;
+	
+
+}
